@@ -1,2 +1,2 @@
 # springboot-gdt-beta
-sample project ilastrates Gti hub
+sample project ilastrates Git
