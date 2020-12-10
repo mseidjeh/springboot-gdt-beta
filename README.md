@@ -1,2 +1,2 @@
 # springboot-gdt-beta
-sample project ilastrates Gti hub Travis ci
+sample project ilastrates Gti hub
